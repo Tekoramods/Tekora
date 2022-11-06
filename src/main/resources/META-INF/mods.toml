@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]]
+modId="nltekora"
+version="19.2-0.0.1a"
+displayName="Tekora"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+credits="Credits to Spangery for helping me with the bugs and ShadowWolfMoon and Akemii for being our German and Dutch translators respectively"
+authors="NukolLodda"
+description='''
+A Minecraft Tech Mod With Uranium And Realistic Ores.
+'''
